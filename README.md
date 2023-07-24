@@ -1,0 +1,1 @@
+This mini-project is a simple HTML file that demonstrates the usage of event listeners. It includes three input elements where users can type values to dynamically change the background color, text color, and page font size in real-time.
